@@ -6,7 +6,7 @@ table,td,th{
 	text-align:center;
 }
 #last_table_col{
-	background-color:rgba(0,0,0,0);
+	background-color:black;
 	color:white;
 }
 table{
